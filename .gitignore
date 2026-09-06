@@ -1,0 +1,7 @@
+lambda/layer/
+.venv/
+cdk.out/
+node_modules/
+__pycache__/
+*.zip
+.DS_Store
